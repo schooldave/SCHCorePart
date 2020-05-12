@@ -79,6 +79,8 @@
 		EAB4F4D4246AC3BD00D353E8 = {
 			isa = PBXGroup;
 			children = (
+				EAB4F4E0246AC3BD00D353E8 /* AppDelegate.swift */,
+				EAB4F510246ACAAC00D353E8 /* SceneDelegate.swift */,
 				EAB4F4DF246AC3BD00D353E8 /* SCHCorePart */,
 				EAB4F4F6246AC3BE00D353E8 /* SCHCorePartTests */,
 				EAB4F501246AC3BE00D353E8 /* SCHCorePartUITests */,
@@ -99,8 +101,6 @@
 		EAB4F4DF246AC3BD00D353E8 /* SCHCorePart */ = {
 			isa = PBXGroup;
 			children = (
-				EAB4F4E0246AC3BD00D353E8 /* AppDelegate.swift */,
-				EAB4F510246ACAAC00D353E8 /* SceneDelegate.swift */,
 				EAB4F4E4246AC3BD00D353E8 /* ViewController.swift */,
 				EAB4F4E6246AC3BD00D353E8 /* Main.storyboard */,
 				EAB4F4E9246AC3BE00D353E8 /* Assets.xcassets */,
