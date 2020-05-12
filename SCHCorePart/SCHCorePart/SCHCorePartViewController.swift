@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+public
 class SCHCorePartViewController: UIViewController {
     
     public var labelText: String?

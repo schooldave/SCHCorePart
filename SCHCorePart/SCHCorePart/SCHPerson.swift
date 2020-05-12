@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+public
 class SCHPerson: NSObject {
 
 }
