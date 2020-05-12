@@ -12,7 +12,7 @@ class SCHCorePartViewController: UIViewController {
     
     public var labelText: String?
     
-    override func viewDidLoad() {
+    public override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = UIColor.orange
         title = "SCHCorePartViewController"
